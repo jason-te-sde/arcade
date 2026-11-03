@@ -77,7 +77,7 @@
 		position: absolute;
 		top: 2px;
 		left: 4px;
-		font-size: 0.75rem;
+		font-size: var(--font-size-xs);
 		color: var(--color-text-muted);
 		pointer-events: none;
 	}

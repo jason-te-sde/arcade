@@ -6,6 +6,7 @@
 	--color-accent-dark: #084298;
 	--color-surface: #f6f8fa;
 	--color-border: #d0d7de;
+	--color-error: #b42318;
 
 	--space-1: 0.25rem;
 	--space-2: 0.5rem;
@@ -13,6 +14,7 @@
 	--space-4: 2rem;
 	--space-5: 4rem;
 
+	--font-size-xs: 0.75rem;
 	--font-size-sm: 0.875rem;
 	--font-size-base: 1rem;
 	--font-size-lg: 1.25rem;
@@ -24,6 +26,7 @@
 	--max-width-text: 65ch;
 	--tap-min: 44px;
 	--radius: 6px;
+	--radius-sm: 4px;
 
 	--max-width-page: 60rem;
 

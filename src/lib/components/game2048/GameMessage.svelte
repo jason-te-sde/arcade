@@ -32,7 +32,7 @@
 		justify-items: center;
 		gap: var(--space-2);
 		padding: var(--space-3);
-		background-color: rgb(255 255 255 / 0.92);
+		background-color: color-mix(in srgb, var(--color-bg) 92%, transparent);
 		border-radius: var(--radius);
 		text-align: center;
 	}

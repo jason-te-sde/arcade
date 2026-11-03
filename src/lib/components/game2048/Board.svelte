@@ -66,6 +66,6 @@
 
 	.slot {
 		background-color: var(--board-cell);
-		border-radius: 4px;
+		border-radius: var(--radius-sm);
 	}
 </style>

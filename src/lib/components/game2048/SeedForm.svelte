@@ -65,6 +65,6 @@
 	}
 
 	.error {
-		color: #b42318;
+		color: var(--color-error);
 	}
 </style>

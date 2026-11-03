@@ -25,7 +25,7 @@
 	.tile {
 		display: grid;
 		place-items: center;
-		border-radius: 4px;
+		border-radius: var(--radius-sm);
 		font-weight: 700;
 		font-size: 11cqi;
 		line-height: 1;
