@@ -20,6 +20,6 @@
 		"#lib/*": "./src/lib/*"
 	},
 	"dependencies": {
-		"@jason-te-sde/arcade-core": "file:../arcade-core"
+		"@jason-te-sde/arcade-core": "^1.1.0"
 	}
 }
